@@ -1,10 +1,11 @@
 # Project scope
 
-Stillframe is being developed as a remote-friendly Android TV launcher. Its
-planned home screen keeps program information beside Continue Watching posters
+Stillframe is a remote-friendly Android TV launcher. Its
+home screen keeps program information beside labeled Continue Watching cards
 and uses a fixed dock for pinned apps, Google Play Store, All Apps, and Edit Dock.
 The wallpaper supplies a muted tint for idle icons. A focused app uses its own
-brand color.
+brand color. An installed icon pack can supply marks for the dock and drawers.
 
-There is no runnable build yet. Initial validation will target Google TV Streamer.
-Continue Watching availability and metadata depend on what installed apps expose.
+The initial validation target is Google TV Streamer. Continue Watching shows
+the highlighted dock app’s entries. Availability and metadata depend on what
+each installed app exposes. See [build and run](build.md).

@@ -1,0 +1,6 @@
+<resources>
+    <style name="StillframeDialogTheme" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#A8D3F6</item>
+        <item name="android:windowElevation">20dp</item>
+    </style>
+</resources>

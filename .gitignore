@@ -9,4 +9,5 @@ local.properties
 *.apk
 *.aab
 *.log
+/docs/launcher-spec.md
 /AGENTS.md

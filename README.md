@@ -4,5 +4,5 @@ Stillframe is an Android TV and Google TV launcher project. It is designed aroun
 a split Continue Watching view, a customizable app dock, and wallpaper-tinted
 icons.
 
-This repository is in setup. See [project scope](docs/project-scope.md) and
-[contributor instructions](AGENTS.md).
+See [build and run](docs/build.md), [project scope](docs/project-scope.md),
+and [contributor guide](CONTRIBUTING.md).

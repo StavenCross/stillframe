@@ -1,0 +1,4 @@
+<resources>
+    <string name="home_override_label">Stillframe Home override</string>
+    <string name="home_override_description">Opens Stillframe when the Google TV Home screen appears. It uses the name of the Google TV window on this device. It does not read screen contents, listen for keystrokes, or send this information anywhere.</string>
+</resources>
